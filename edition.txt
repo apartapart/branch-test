@@ -1,1 +1,2 @@
-Emergency: Bug Found!
+Hotfix team's solution
+
